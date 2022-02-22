@@ -1,4 +1,4 @@
-Olá, eu sou Clarice Passos!\
+## Olá, eu sou Clarice Passos!
 Desenvolvedora front-end e jornalista, com pós-graduação em comunicação digital.\
 Em transição de carreira para a área de tecnologia.
 ### [Linkedin](https://www.linkedin.com/in/clarice-passos-a0637310a/)
