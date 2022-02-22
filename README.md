@@ -1,6 +1,8 @@
-
-Sou jornalista, com pós-graduação em comunicação digital e em transição de carreira para a área de tecnologia.
+Olá, eu sou Clarice Passos!\
+Desenvolvedora front-end e jornalista, com pós-graduação em comunicação digital.\
+Em transição de carreira para a área de tecnologia.
 ### [Linkedin](https://www.linkedin.com/in/clarice-passos-a0637310a/)
+[Email](claricepassos@gmail.com)
 
 ### Tecnologias 
 Frontend
