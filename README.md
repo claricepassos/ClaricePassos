@@ -1,4 +1,22 @@
-### Hi there 👋
+
+Sou jornalista, com pós-graduação em comunicação digital e em transição de carreira para a área de tecnologia.
+### [Linkedin](https://www.linkedin.com/in/clarice-passos-a0637310a/)
+
+### Tecnologias 
+Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Jest
+
+Backend
+
+- Node
+- TypeScript
+- MySQL
+- AWS
 
 <!--
 **claricepassos/claricepassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
